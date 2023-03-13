@@ -35,6 +35,6 @@ I use:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
-...and much more.
+...and many more.
 
 ###
