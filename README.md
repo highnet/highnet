@@ -1,8 +1,11 @@
 ### 🌍
-
-[https://app.sandclock.org/](https://app.sandclock.org/)
- [www.highnet.xyz](https://www.highnet.xyz)
- https://highnetcv.xyz/
+- https://app.sandclock.org/
+- https://www.highnet.xyz
+- https://highnetcv.xyz/
+- https://trmd3.com/
+- https://store.steampowered.com/app/1906070/Retro_Karting_22/
+- https://store.steampowered.com/app/1067110/Idle_Chess_Story/
+- https://www.chillybitsnft.com/
 
 ###
 
