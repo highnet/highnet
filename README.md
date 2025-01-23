@@ -2,6 +2,7 @@
 
 [https://app.sandclock.org/](https://app.sandclock.org/)
  [www.highnet.xyz](https://www.highnet.xyz)
+ https://highnetcv.xyz/
 
 ###
 
