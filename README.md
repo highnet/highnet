@@ -1,5 +1,6 @@
 ### 🌍
 
+- https://www.chainopedia.com/
 - https://highnetcv.xyz/
 - https://www.highnet.xyz
 - https://app.sandclock.org/
