@@ -10,4 +10,4 @@
 - https://www.chillybitsnft.com/
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highnet)](https://github.com/highnet/github-readme-stats)
+![image](https://github.com/user-attachments/assets/b3c9e777-1640-4e98-9c43-472e64f051e0)
