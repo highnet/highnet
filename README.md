@@ -9,5 +9,4 @@
 - https://store.steampowered.com/app/1067110/Idle_Chess_Story/
 - https://www.chillybitsnft.com/
 
-###
-![image](https://github.com/user-attachments/assets/b3c9e777-1640-4e98-9c43-472e64f051e0)
+[![Highnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=highnet)](https://github.com/anuraghazra/github-readme-stats)
