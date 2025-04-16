@@ -2,7 +2,6 @@
 
 - https://www.chainopedia.com/
 - https://highnetcv.xyz/
-- https://www.highnet.xyz
 - https://app.sandclock.org/
 - https://trmd3.com/
 - https://store.steampowered.com/app/1906070/Retro_Karting_22/
