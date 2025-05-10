@@ -1,6 +1,6 @@
 ### Nice to see you! Check out my pages!
 
-If you see gaps on my commit contributions, it's because I'm working on a private bitbucket account.
+If you see gaps on my commit contributions, it's because I'm working under a private bitbucket account.
 
 - https://vorteilsclub.wien.at/
 - https://www.chainopedia.com/
