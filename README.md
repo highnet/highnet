@@ -1,9 +1,7 @@
 # Hi there 👋 I'm Joaquin 'Highnet' Telleria (He/Him)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <a href="https://highnetcv.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-highnetcv.xyz-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
@@ -25,7 +23,9 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 * 🌍 I'm based in Vienna, Austria
 * 🖥️ See my portfolio at [highnetcv.xyz](https://highnetcv.xyz/)
-* 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/joaquin-telleria-57957aa5)
+* 🤝 Let's connect on <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 * 🌱 I’m currently diving deeper into graph theory
 * 💬 Ask me about Front-End Development, Web3, UI/UX Design, Game Development
 * 📫 You can reach me at `joaquintelleria@gmail.com` or `+436764204412`
