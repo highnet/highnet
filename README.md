@@ -17,7 +17,7 @@ I'm a passionate **Front-End & Web3 Developer, UI/UX Designer, and Game Develope
 I thrive on transforming complex challenges into intuitive and user-friendly solutions. Whether it's demystifying Web3 concepts, designing compelling user interfaces, or developing fun games, my goal is to create products that empower users and make a positive impact.
 
 * 🌍 I'm based in Vienna, Austria.
-* 🖥️ See my portfolio at [highnetcv.xyz](https://highnetcv.xyz/) and my other projects at [www.highnet.xyz](https://www.highnet.xyz/).
+* 🖥️ See my portfolio at [highnetcv.xyz](https://highnetcv.xyz/).
 * 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/joaquin-telleria-57957aa5).
 * 🌱 I’m currently diving deeper into graph theory.
 * 💬 Ask me about Front-End Development, Web3, UI/UX Design, Game Development.
