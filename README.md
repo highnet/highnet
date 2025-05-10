@@ -1,7 +1,21 @@
 # Hi there 👋 I'm Joaquin 'Highnet' Telleria (He/Him)
 
 <p align="center">
-
+  <img src="https://img.shields.io/badge/🌍%20Based%20in-Vienna,%20Austria-blue?style=for-the-badge" alt="Location"/>
+  <a href="https://highnetcv.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-highnetcv.xyz-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
+    <img src="https://img.shields.io/badge/🤝%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Graph%20Theory-blue?style=for-the-badge" alt="Learning"/>
+  <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Front--End%20Dev,%20Web3,%20UI/UX,%20Games-blue?style=for-the-badge" alt="Topics"/>
+  <a href="mailto:joaquintelleria@gmail.com">
+    <img src="https://img.shields.io/badge/📫%20Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+436764204412">
+    <img src="https://img.shields.io/badge/💬%20Whatsapp-+436764204412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
   <a href="https://chatgpt.com/share/681f516e-4f8c-8008-a212-ff4832f6886f" target="_blank">
     <img src="https://img.shields.io/badge/Programmer%20Personality%3A%20Hacker-orange?style=for-the-badge" alt="Programmer Personality: Hacker"/>
   </a>
@@ -15,19 +29,9 @@ I'm a passionate **Front-End & Web3 Developer, UI/UX Designer, and Game Develope
 
 I thrive on transforming complex challenges into intuitive and user-friendly solutions. Whether it's demystifying Web3 concepts, designing compelling user interfaces, or developing fun games, my goal is to create products that empower users and make a positive impact.
 
-* 🌍 I'm based in Vienna, Austria
-* 🖥️ See my portfolio at <a href="https://highnetcv.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/highnetcv.xyz-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-* 🤝 Let's connect on <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-* 🌱 I’m currently diving deeper into graph theory
-* 💬 Ask me about Front-End Development, Web3, UI/UX Design, Game Development
-* 📫 You can reach me at <a href="mailto:joaquintelleria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-    <img src="https://img.shields.io/badge/Phone-+436764204412-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Phone"/>
+<p align="center">
+
+</p>
 
 ---
 
