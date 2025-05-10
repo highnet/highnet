@@ -1,8 +1,8 @@
-# Hi there, I'm Joaquin ('Highnet') Telleria 👋
+# Hi there 👋 I'm Joaquin ('Highnet') Telleria (He/Him)
 
 <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://highnetcv.xyz/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-highnetcv.xyz-brightgreen?style=for-the-badge" alt="Portfolio"/></a>
-**(He/Him)**
+****
 
 I'm a passionate **Front-End & Web3 Developer, UI/UX Designer, and Game Developer** based in Vienna, Austria 🇦🇹. I focus on building accessible, modern, and engaging digital experiences with ❤️.
 
