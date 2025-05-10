@@ -28,20 +28,27 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 ## 🛠️ My Tech Stack & Skills
 
 **Core Development:** JavaScript, TypeScript, HTML5, CSS3/SCSS
+
 **Front-End Frameworks & Libraries:** React, Next.js, Vite, TailwindCSS, Shadcn/UI, Framer Motion
+
 **State Management:** Zustand, Tanstack Query, Redux
+
 **API & Data Fetching:** Axios, GraphQL, REST APIs
-**Web3 & Blockchain:**
-* Libraries: Viem, Wagmi, Ethers.js
-* Concepts: Smart Contract Interactions, NFT Development & Deployment (Ethereum)
+
+**Web3 & Blockchain:** Viem, Wagmi, Ethers.js, Smart Contract Interactions, NFT Development & Deployment (Ethereum)
+
 **Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL
+
 **Testing:** Jest, Vitest
+
 **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker
+
 **Design Tools:** Figma, Canva
-**Game Development:**
-* Engines & Languages: Unity, C#, C++
-* Graphics: OpenGL, GLSL, Shader Programming
-**Version Control & Deployment:** Git, GitHub, TortoiseSVN, Vercel, Netlify
+
+**Game Development:** Unity, C#, Unreal Engine, C++, OpenGL, GLSL, Shader Programming
+
+**Version Control & Deployment:** Git, GitHub, Bitbucket, TortoiseSVN, Vercel, Netlify
+  
 **Languages:** English (Fluent) | German (Fluent) | Spanish (Native)
 
 ---
