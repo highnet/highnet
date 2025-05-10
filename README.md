@@ -139,7 +139,3 @@ Here are some of the projects I'm proud of:
 
 [![Highnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=highnet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highnet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-## For me
-[Config](https://github.com/highnet/config)
