@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://highnetcv.xyz/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-highnetcv.xyz-brightgreen?style=for-the-badge" alt="Portfolio"/></a>
 <a href="mailto:joaquintelleria@gmail.com"><img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://chatgpt.com/share/681f516e-4f8c-8008-a212-ff4832f6886f" target="_blank">
+  <img src="https://img.shields.io/badge/Programmer%20Personality%3A%20Hacker-orange?style=for-the-badge" alt="Programmer Personality: Hacker"/>
+</a>
+
 
 I'm a passionate **Front-End & Web3 Developer, UI/UX Designer, and Game Developer** based in Vienna, Austria 🇦🇹. I focus on building accessible, modern, and engaging digital experiences with ❤️.
 
