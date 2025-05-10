@@ -5,22 +5,22 @@
   <a href="https://highnetcv.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-highnetcv.xyz-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
-    <img src="https://img.shields.io/badge/🤝%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <img src="https://img.shields.io/badge/🌱%20Learning-Graph%20Theory-blue?style=for-the-badge" alt="Learning"/>
   <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Front--End%20Dev,%20Web3,%20UI/UX,%20Games-blue?style=for-the-badge" alt="Topics"/>
   <a href="mailto:joaquintelleria@gmail.com">
-    <img src="https://img.shields.io/badge/📫%20Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/+436764204412">
-    <img src="https://img.shields.io/badge/💬%20Whatsapp-+436764204412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+    <img src="https://img.shields.io/badge/Whatsapp-+436764204412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
   <a href="https://wh-d.at/home"> 
-    <img src="https://img.shields.io/badge/💼%20Status-Employed-brightgreen?style=for-the-badge&logo=workplace&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Employed-brightgreen?style=for-the-badge&logo=workplace&logoColor=white" alt="Status"/>
   </a>
   <a href="https://chatgpt.com/share/681f516e-4f8c-8008-a212-ff4832f6886f" target="_blank">
-    <img src="https://img.shields.io/badge/Programmer%20Personality%3A%20Hacker-orange?style=for-the-badge" alt="Programmer Personality: Hacker"/>
+    <img src="https://img.shields.io/badge/Programmer Personality-Hacker-orange?style=for-the-badge" alt="Programmer Personality: Hacker"/>
   </a>
 </p>
 
