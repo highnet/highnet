@@ -102,7 +102,7 @@ Here are some of the projects I'm proud of:
 
 ## 💼 Professional Experience Highlights
 
-* **Frontend Developer** | WH Digital Services (_Mar 2025 - Present_)
+* **Frontend Developer** | WienHolding Digital Services (_Mar 2025 - Present_)
     * Contributing to front-end development projects, including the Vorteilsclub Wien platform.
 
 * **Web3 Frontend Developer** | Lindy Labs - Sandclock (_Aug 2023 – Jan 2025, Vienna, Austria, Remote_)
