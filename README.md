@@ -1,5 +1,7 @@
 ### Nice to see you! Check out my pages!
 
+If you see gaps on my commit contributions, it's because I'm working on a private bitbucket account.
+
 - https://vorteilsclub.wien.at/
 - https://www.chainopedia.com/
 - https://highnetcv.xyz/
