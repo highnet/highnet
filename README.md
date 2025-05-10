@@ -15,7 +15,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 * 🌍 I'm based in Vienna, Vienna, Austria
 * 🖥️ See my portfolio at [highnetcv.xyz](https://highnetcv.xyz/)
 * 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/joaquin-telleria-57957aa5)
-* 🌱 I’m currently diving deeper into [mention a new tech/concept you're learning if any]
+* 🌱 I’m currently diving deeper into graph theory.
 * 💬 Ask me about Front-End Development, Web3, UI/UX Design, Game Development.
 
 ---
@@ -27,17 +27,14 @@ Here are some of the projects I'm proud of:
 1.  🌐 **Chainopedia**
     * **Description:** An accessible, interactive resource designed to transform complex crypto and Web3 terminology into an easy-to-understand experience. My role involved full-stack development and UI/UX design to empower users and simplify crypto jargon.
     * **Link:** [www.chainopedia.com](https://www.chainopedia.com)
-    * **GitHub Repo:** `[Link to Chainopedia GitHub Repo if public]` (Optional)
 
 2.  🎮 **Retro Karting 22**
     * **Description:** An indie game bringing classic kart racing fun to Steam.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1906070/Retro_Karting_22/)
-    * **GitHub Repo:** `[Link to Retro Karting 22 GitHub Repo if public]` (Optional)
 
 3.  🖼️ **The Chilly Bits NFTs**
     * **Description:** A Web3 project involving NFT creation and front-end development for the community.
     * **Link:** [www.chillybitsnft.com](https://www.chillybitsnft.com/)
-    * **GitHub Repo:** `[Link to Chilly Bits GitHub Repo if public]` (Optional)
 
 4.  🏢 **Vorteilsclub Wien (for WH Digital Services)**
     * **Description:** Contribution to the front-end development of the Vorteilsclub Wien platform.
@@ -58,23 +55,22 @@ Here are some of the projects I'm proud of:
 
 **Languages & Frameworks:**
 * JavaScript, **TypeScript**
-* React, Next.js, Vue.js, Angular (mention specific ones you're strongest in)
+* React, Next.js, Vue.js, Angular
 * HTML5, CSS3, SASS/LESS
 * Node.js
 
 **Web3:**
-* Ethers.js, Web3.js
-* Solidity (Basic/Intermediate/Advanced - specify if applicable)
+* Ethers.js, Viem, Wagmi, Web3.js
 * Smart Contract Interaction
 * NFTs
 
 **Design:**
-* Figma, Adobe XD (or other tools you use)
+* Figma
 * User Interface Design, User Experience Design
 * Prototyping, Wireframing
 
 **Game Development:**
-* Unity, C# (if applicable)
+* Unity, C#, Unreal Engine, C++
 * Game Design Principles
 
 **Other Tools & Technologies:**
@@ -110,7 +106,7 @@ Here are some of the projects I'm proud of:
 
 * **LinkedIn:** [linkedin.com/in/joaquin-telleria-57957aa5](https://www.linkedin.com/in/joaquin-telleria-57957aa5)
 * **Portfolio/Website:** [highnetcv.xyz](https://highnetcv.xyz/)
-* **Email:** `your-email@example.com` (Optional: if you want to share it publicly)
+* **Email:** `joaquintelleria@gmail.com` 
 
 ---
 
