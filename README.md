@@ -1,4 +1,4 @@
-### Nice to see you! Check out my pages!
+### Nice to see you! Check out the webpages i've been working on!
 
 If you see gaps on my commit contributions, it's because I'm working under a private bitbucket account.
 
