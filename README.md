@@ -2,6 +2,8 @@
 
 If you see gaps on my commit contributions, it's because I'm working under a private bitbucket account.
 
+- https://www.wien.gv.at/infodat/
+- https://www.wienholding.at/
 - https://vorteilsclub.wien.at/
 - https://www.chainopedia.com/
 - https://highnetcv.xyz/
