@@ -70,37 +70,43 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 Here are some of the projects I'm proud of:
 
-1.  🌐 **Sandclock DeFi Application**
+1. 🇦🇹 Key Web Platforms for Vienna
+
+    * **Description:** Contributed to the development and/or maintenance of several significant Viennese websites, including the official Wien Holding portal, the City of Vienna's Infodat service, the Donauinselfest website and the Vorteilsclub Wien.
+    * **Links:**
+        * Wien Holding: [www.wienholding.at](www.wienholding.at)
+        * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](www.wien.gv.at/infodat/)
+        * Donauinselfest: [donauinselfest.at](donauinselfest.at)
+        * Vorteilsclub: [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
+
+2.  🌐 **Sandclock DeFi Application**
     * **Description:** Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components using React and TypeScript, and integrated blockchain interactions using Viem, Wagmi, and Ethers.js.
     * **Link:** [app.sandclock.org](https://app.sandclock.org/)
     * **Tools:** React, TypeScript, Next.js, Zustand, Tanstack Query, GraphQL, TailwindCSS, Shadcn/UI, Viem, Wagmi, Ethers.js, Supabase
 
-2.  🎨 **Tiny React Material Design 3 (TRMD3)**
+3.  🎨 **Tiny React Material Design 3 (TRMD3)**
     * **Description:** Developed and maintained TRMD3, a high-performance and customizable React component library adhering to Material Design 3 principles. Published and maintained the npm package “trmd3components”.
     * **Link:** [trmd3.com](https://trmd3.com/)
     * **npm:** [trmd3components](https://www.npmjs.com/package/trmd3components)
 
-3.  🎮 **Retro Karting 22**
+4.  🎮 **Retro Karting 22**
     * **Description:** A single-player, time trial-based karting game focused on reaction time and driving skills. Brings classic kart racing fun to Steam.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1906070/Retro_Karting_22/)
     * **Tools:** Unity, C#
 
-4.  🖼️ **The Chilly Bits NFTs**
+5.  🖼️ **The Chilly Bits NFTs**
     * **Description:** Designed and developed a collection of 1000 algorithmically generated 3D art NFTs on the Ethereum blockchain. Involved in NFT creation and front-end development for the community.
     * **Link:** [www.chillybitsnft.com](https://www.chillybitsnft.com/)
 
-5.  ♟️ **Idle Chess Story**
+6.  ♟️ **Idle Chess Story**
     * **Description:** A strategic idle game where players assemble chess units with unique abilities to compete in tournaments.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1067110/Idle_Chess_Story/)
     * **Tools:** Unity, C#
 
-6.  🏢 **Vorteilsclub Wien (for WH Digital Services)**
-    * **Description:** Contribution to the front-end development of the Vorteilsclub Wien platform.
-    * **Link:** [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
-
 7.  🌐 **Chainopedia**
     * **Description:** An accessible, interactive resource designed to transform complex crypto and Web3 terminology into an easy-to-understand experience. My role involved full-stack development and UI/UX design to empower users and simplify crypto jargon.
     * **Link:** [www.chainopedia.com](https://www.chainopedia.com)
+  
 
 *You can find more of my work on my [Portfolio](https://highnetcv.xyz/) and here on GitHub!*
 
