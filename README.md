@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <img src="https://img.shields.io/badge/🌱%20Learning-CMS%20Development-blue?style=for-the-badge" alt="Learning"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-webcomponents-blue?style=for-the-badge" alt="Learning"/>
   <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Front--End%20Dev,%20Web3,%20UI/UX,%20Games-blue?style=for-the-badge" alt="Topics"/>
   <a href="mailto:joaquintelleria@gmail.com">
     <img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
