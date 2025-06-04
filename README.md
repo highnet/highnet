@@ -78,6 +78,8 @@ Here are some of the projects I'm proud of:
         * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](www.wien.gv.at/infodat/)
         * Donauinselfest: [donauinselfest.at](donauinselfest.at)
         * Vorteilsclub: [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
+    * **Tools:**
+      * React, Typescript, Java, Wordpress, PHP, FreeMarker
 
 2.  🌐 **Sandclock DeFi Application**
     * **Description:** Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components using React and TypeScript, and integrated blockchain interactions using Viem, Wagmi, and Ethers.js.
