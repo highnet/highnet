@@ -74,11 +74,11 @@ Here are some of the projects I'm proud of:
 
     * **Description:** Contributed to the development and/or maintenance of several significant Viennese websites, including the official Wien Holding portal, the City of Vienna's Infodat service, the Donauinselfest website and the Vorteilsclub Wien.
     * **Links:**
-        * Wien Holding: [www.wienholding.at](www.wienholding.at)
-        * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](www.wien.gv.at/infodat/)
-        * Donauinselfest: [donauinselfest.at](donauinselfest.at)
+        * Wien Holding: [www.wienholding.at](https://www.wienholding.at)
+        * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](https://www.wien.gv.at/infodat/)
+        * Donauinselfest: [donauinselfest.at](https://www.donauinselfest.at)
         * Vorteilsclub: [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
-        * Wien Holding Sport: [www.wh-sport.at](www.wh-sport.at)
+        * Wien Holding Sport: [www.wh-sport.at](https://www.wh-sport.at)
     * **Tools:**
       * React, Typescript, Java, Wordpress, PHP, FreeMarker
 
