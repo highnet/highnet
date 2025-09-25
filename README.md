@@ -86,7 +86,7 @@ Here are some of the projects I'm proud of:
       * Wien Holding Digital Services: [www.wh-d.at](https://www.wh-d.at/)
       * Wien Holding Media: [www.wh-m.at](https://www.wh-m.at/)
     * **Tools:**
-      * React, Typescript, Java, Wordpress, PHP, FreeMarker, CraftCMS
+      * React, Typescript, Java, Spring Boot, Wordpress, PHP, FreeMarker, CraftCMS
 
 2.  🌐 **Sandclock DeFi Application**
     * **Description:** Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components using React and TypeScript, and integrated blockchain interactions using Viem, Wagmi, and Ethers.js.
