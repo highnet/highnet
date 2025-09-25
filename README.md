@@ -70,7 +70,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 Here are some of the projects I'm proud of:
 
-1. 🇦🇹 Key Web Platforms for Vienna
+1. 🇦🇹 Key Web Platforms for the City of Vienna
 
     * **Description:** Contributed to the development and/or maintenance of several significant Viennese websites, including the official Wien Holding portal, the City of Vienna's Infodat service, the Donauinselfest website and the Vorteilsclub Wien.
     * **Links:**
