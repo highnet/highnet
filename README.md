@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <img src="https://img.shields.io/badge/🌱%20Learning-webcomponents-blue?style=for-the-badge" alt="Learning"/>
-  <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Front--End%20Dev,%20Web3,%20UI/UX,%20Games-blue?style=for-the-badge" alt="Topics"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-CraftCMS-blue?style=for-the-badge" alt="Learning"/>
+  <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Front--End%20Dev,%20Web3,%20UI/UX,%20GameDev-blue?style=for-the-badge" alt="Topics"/>
   <a href="mailto:joaquintelleria@gmail.com">
     <img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -50,7 +50,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 **Web3 & Blockchain:** Viem, Wagmi, Ethers.js, Smart Contract Interactions, NFT Development & Deployment (Ethereum)
 
-**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL
+**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL, Convex
 
 **Testing:** Jest, Vitest
 
@@ -74,13 +74,19 @@ Here are some of the projects I'm proud of:
 
     * **Description:** Contributed to the development and/or maintenance of several significant Viennese websites, including the official Wien Holding portal, the City of Vienna's Infodat service, the Donauinselfest website and the Vorteilsclub Wien.
     * **Links:**
-        * Wien Holding: [www.wienholding.at](https://www.wienholding.at)
-        * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](https://www.wien.gv.at/infodat/)
-        * Donauinselfest: [donauinselfest.at](https://www.donauinselfest.at)
-        * Vorteilsclub: [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
-        * Wien Holding Sport: [www.wh-sport.at](https://www.wh-sport.at)
+      * Wien Holding: [www.wienholding.at](https://www.wienholding.at)
+      * Wien.gv.at Infodat: [www.wien.gv.at/infodat/](https://www.wien.gv.at/infodat/)
+      * Donauinselfest: [donauinselfest.at](https://www.donauinselfest.at)
+      * Vorteilsclub: [vorteilsclub.wien.at](https://vorteilsclub.wien.at/)
+      * Wien Holding Sport: [www.wh-sport.at](https://www.wh-sport.at)
+      * Messe Congress: [www.messecongress.at](https://www.messecongress.at/)
+      * Viennabase: [viennabase.at](https://viennabase.at/)
+      * Mauthausen Memorial: [www.mauthausen-memorial.org](https://www.mauthausen-memorial.org/)
+      * Gusen Memorial: [www.gusen-memorial.org](https://www.gusen-memorial.org/)
+      * Wien Holding Digital Services: [www.wh-d.at](https://www.wh-d.at/)
+      * Wien Holding Media: [www.wh-m.at](https://www.wh-m.at/)
     * **Tools:**
-      * React, Typescript, Java, Wordpress, PHP, FreeMarker
+      * React, Typescript, Java, Wordpress, PHP, FreeMarker, CraftCMS
 
 2.  🌐 **Sandclock DeFi Application**
     * **Description:** Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components using React and TypeScript, and integrated blockchain interactions using Viem, Wagmi, and Ethers.js.
