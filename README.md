@@ -44,7 +44,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 **Front-End Frameworks & Libraries:** React, Next.js, Vite, TailwindCSS, Shadcn/UI, Framer Motion
 
-**State Management:** Zustand, Tanstack Query, Redux
+**State Management:** Zustand, Tanstack Query, Redux, WebSockets
 
 **API & Data Fetching:** Axios, GraphQL, REST APIs
 
