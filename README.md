@@ -50,7 +50,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 **Web3 & Blockchain:** Viem, Wagmi, Ethers.js, Smart Contract Interactions, NFT Development & Deployment (Ethereum)
 
-**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL, Convex
+**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL, Convex, Clerk
 
 **Testing:** Jest, Vitest
 
