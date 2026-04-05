@@ -103,18 +103,10 @@ Here are some of the projects I'm proud of:
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1906070/Retro_Karting_22/)
     * **Tools:** Unity, C#
 
-5.  🖼️ **The Chilly Bits NFTs**
-    * **Description:** Designed and developed a collection of 1000 algorithmically generated 3D art NFTs on the Ethereum blockchain. Involved in NFT creation and front-end development for the community.
-    * **Link:** [www.chillybitsnft.com](https://www.chillybitsnft.com/)
-
-6.  ♟️ **Idle Chess Story**
+5.  ♟️ **Idle Chess Story**
     * **Description:** A strategic idle game where players assemble chess units with unique abilities to compete in tournaments.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1067110/Idle_Chess_Story/)
     * **Tools:** Unity, C#
-
-7.  🌐 **Chainopedia**
-    * **Description:** An accessible, interactive resource designed to transform complex crypto and Web3 terminology into an easy-to-understand experience. My role involved full-stack development and UI/UX design to empower users and simplify crypto jargon.
-    * **Link:** [www.chainopedia.com](https://www.chainopedia.com)
   
 
 *You can find more of my work on my [Portfolio](https://highnetcv.xyz/) and here on GitHub!*
