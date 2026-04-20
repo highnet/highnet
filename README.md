@@ -24,7 +24,7 @@
   </a>
 </p>
 
-I'm a passionate **Front-End & Web3 Developer, UI/UX Designer, and Game Developer** based in Vienna, Austria 🇦🇹 I focus on building accessible, modern, and engaging digital experiences with ❤️
+I'm a passionate **Full-Stack & Web3 Developer, UI/UX Designer, and Game Developer** based in Vienna, Austria 🇦🇹 I focus on building accessible, modern, and engaging digital experiences with ❤️
 
 ---
 
