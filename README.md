@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Whatsapp-+436764204412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 
-  <a href="https://wh-d.at/home"> 
+  <a href="https://highnetcv.xyz"> 
     <img src="https://img.shields.io/badge/Status-Independent-yellow?style=for-the-badge&logo=workplace&logoColor=white" alt="Status"/>
   </a>
 
