@@ -80,7 +80,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 ## ✨ Featured Projects
 
-Here are some of the projects I'm proud of:
+Here are some of the projects I'm most proud of:
 
 1. 🇦🇹 Key Web Platforms for the City of Vienna
 
@@ -97,8 +97,7 @@ Here are some of the projects I'm proud of:
       * Gusen Memorial: [www.gusen-memorial.org](https://www.gusen-memorial.org/)
       * Wien Holding Digital Services: [www.wh-d.at](https://www.wh-d.at/)
       * Wien Holding Media: [www.wh-m.at](https://www.wh-m.at/)
-    * **Tools:**
-      * React, Typescript, Java, Spring Boot, Wordpress, PHP, FreeMarker, CraftCMS
+    * **Tools:** React, Typescript, Java, Spring Boot, Wordpress, PHP, FreeMarker, CraftCMS
 
 2.  🌐 **Sandclock DeFi Application**
     * **Description:** Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components using React and TypeScript, and integrated blockchain interactions using Viem, Wagmi, and Ethers.js.
@@ -106,20 +105,41 @@ Here are some of the projects I'm proud of:
     * **Tools:** React, TypeScript, Next.js, Zustand, Tanstack Query, GraphQL, TailwindCSS, Shadcn/UI, Viem, Wagmi, Ethers.js, Supabase
 
 3.  🎨 **Tiny React Material Design 3 (TRMD3)**
-    * **Description:** Developed and maintained TRMD3, a high-performance and customizable React component library adhering to Material Design 3 principles. Published and maintained the npm package “trmd3components”.
+    * **Description:** Developed and maintained TRMD3, a high-performance and customizable React component library adhering to Material Design 3 principles. Published and maintained the npm package "trmd3components".
     * **Link:** [trmd3.com](https://trmd3.com/)
     * **npm:** [trmd3components](https://www.npmjs.com/package/trmd3components)
+  
+4.  🃏 **War**
+    * **Description:** A fullstack monorepo implementation of the classic card game War, featuring real-time multiplayer, AI opponents, and Redis-backed game state.
+    * **Links:** [GitHub](https://github.com/highnet/war) | [Live App](https://highnet-war-frontend.fly.dev/lobby)
+    * **Tools:** React, TypeScript, Nuxt, Node.js, Redis, WebSockets, Fly.io
 
-4.  🎮 **Retro Karting 22**
+5.  📖 **Convex Guestbook**
+    * **Description:** A member-only guestbook where authenticated users can sign in, post messages, and watch the list update in real time. Built on the Next.js App Router with Convex as the reactive backend, Clerk for auth, and PostHog for product analytics.
+    * **Links:** [GitHub](https://github.com/highnet/convex-guestbook) | [Live App](https://convex-guestbook.vercel.app/)
+    * **Tools:** Next.js, Convex, Clerk, PostHog, TypeScript, Vercel
+
+6.  🛰️ **Orbital**
+    * **Description:** A real-time satellite viewer that ingests live orbital data, normalizes it into clean snapshots, and renders active satellites on an interactive 3D globe.
+    * **Link:** [GitHub](https://github.com/highnet/orbital)
+
+7.  🤖 **Ollama ZeroClaw**
+    * **Description:** A local AI agent setup backed by Ollama, with scripts for both Windows and WSL2 that spin up a fully terminal-based UI (TUI) — no cloud, no browser required.
+    * **Link:** [GitHub](https://github.com/highnet/ollama-zeroclaw)
+    * **Tools:** Ollama, Bash/PowerShell, TUI
+
+8. ⚔️ **AI Arena**
+    * **Description:** Pits AI-controlled battle agents against each other in strategic turn-based combat. Each agent has unique stats, moves, and a personality that shapes its decision-making, powered by a local LLM running entirely on your machine.
+    * **Link:** [GitHub](https://github.com/highnet/ai-arena)
+
+9.  🎮 **Retro Karting 22**
     * **Description:** A single-player, time trial-based karting game focused on reaction time and driving skills. Brings classic kart racing fun to Steam.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1906070/Retro_Karting_22/)
     * **Tools:** Unity, C#
-
-5.  ♟️ **Idle Chess Story**
+10.  ♟️ **Idle Chess Story**
     * **Description:** A strategic idle game where players assemble chess units with unique abilities to compete in tournaments.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1067110/Idle_Chess_Story/)
     * **Tools:** Unity, C#
-  
 
 *You can find more of my work on my [Portfolio](https://highnetcv.xyz/) and here on GitHub!*
 
