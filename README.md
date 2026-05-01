@@ -42,7 +42,7 @@ I'm a passionate **Full-Stack & Web3 Developer, UI/UX Designer, and Game Develop
 
 ## 🚀 About Me
 
-I thrive on transforming complex challenges into intuitive and user-friendly solutions. Whether it's demystifying Web3 concepts, designing compelling user interfaces, or developing fun games, my goal is to create products that empower users and make a positive impact.
+I'm a full-stack developer with a background in Human-Centered Computing, which means I care just as much about how something feels as how it works. I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a slot engine with cryptographic fairness guarantees, and indie games on Steam.
 
 <p align="center">
 
