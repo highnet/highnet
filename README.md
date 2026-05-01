@@ -113,6 +113,7 @@ Here are some of the projects I'm most proud of:
 
 4.  🎰 **Lucky Slots Web**
     * **Description:** A provably fair online slot machine engine (V3 rewrite) built as a full-stack monorepo. Features a cryptographically verifiable HMAC-SHA256 spin system, a two-phase simulated annealing reel optimizer targeting custom RTP and hit-rate goals, and a Monte Carlo RTP simulator. The isomorphic TypeScript engine powers both the Nuxt 3 frontend and the GraphQL API.
+    * **Links:** [GitHub](https://github.com/highnet/lucky-slots-v3) | [Live App](https://lucky-slots-web.fly.dev/)
     * **Tools:** Nuxt 3, Node.js, TypeScript, GraphQL Yoga, Drizzle ORM, PostgreSQL, Redis, XState, TresJS, Pinia, TailwindCSS, Turborepo, Docker, Fly.io
 
 5.  🃏 **War**
