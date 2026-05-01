@@ -54,26 +54,28 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 **Core Development:** JavaScript, TypeScript, HTML5, CSS3/SCSS
 
-**Front-End Frameworks & Libraries:** React, Next.js, Vite, TailwindCSS, Shadcn/UI, Framer Motion
+**Front-End Frameworks & Libraries:** React, Next.js, Nuxt 3, Vite, TailwindCSS, Shadcn/UI, Framer Motion, TresJS
 
-**State Management:** Zustand, Tanstack Query, Redux, WebSockets
+**State Management:** Zustand, Pinia, Tanstack Query, Redux, XState
 
-**API & Data Fetching:** Axios, GraphQL, REST APIs
+**API & Data Fetching:** Axios, GraphQL, GraphQL Yoga, REST APIs, WebSockets
 
 **Web3 & Blockchain:** Viem, Wagmi, Ethers.js, Smart Contract Interactions, NFT Development & Deployment (Ethereum)
 
-**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL, Convex, Clerk
+**Back-End & Databases:** Node.js, Express, Firebase, Supabase, MongoDB, SQL, PostgreSQL, Drizzle ORM, Redis, Convex, Clerk
+
+**Auth & Security:** Argon2id, HTTP-only Cookies, Session Management
 
 **Testing:** Jest, Vitest
 
-**CI/CD & DevOps:** GitHub Actions, Jenkins, Docker
+**CI/CD & DevOps:** GitHub Actions, Jenkins, Docker, Turborepo
 
 **Design Tools:** Figma, Canva
 
 **Game Development:** Unity, C#, Unreal Engine, C++, OpenGL, GLSL, Shader Programming
 
-**Version Control & Deployment:** Git, GitHub, Bitbucket, TortoiseSVN, Vercel, Netlify
-  
+**Version Control & Deployment:** Git, GitHub, Bitbucket, TortoiseSVN, Vercel, Netlify, Fly.io
+
 **Languages:** English (Fluent) | German (Fluent) | Spanish (Native)
 
 ---
@@ -108,35 +110,40 @@ Here are some of the projects I'm most proud of:
     * **Description:** Developed and maintained TRMD3, a high-performance and customizable React component library adhering to Material Design 3 principles. Published and maintained the npm package "trmd3components".
     * **Link:** [trmd3.com](https://trmd3.com/)
     * **npm:** [trmd3components](https://www.npmjs.com/package/trmd3components)
-  
-4.  🃏 **War**
+
+4.  🎰 **Lucky Slots Web**
+    * **Description:** A provably fair online slot machine engine (V3 rewrite) built as a full-stack monorepo. Features a cryptographically verifiable HMAC-SHA256 spin system, a two-phase simulated annealing reel optimizer targeting custom RTP and hit-rate goals, and a Monte Carlo RTP simulator. The isomorphic TypeScript engine powers both the Nuxt 3 frontend and the GraphQL API.
+    * **Tools:** Nuxt 3, Node.js, TypeScript, GraphQL Yoga, Drizzle ORM, PostgreSQL, Redis, XState, TresJS, Pinia, TailwindCSS, Turborepo, Docker, Fly.io
+
+5.  🃏 **War**
     * **Description:** A fullstack monorepo implementation of the classic card game War, featuring real-time multiplayer, AI opponents, and Redis-backed game state.
     * **Links:** [GitHub](https://github.com/highnet/war) | [Live App](https://highnet-war-frontend.fly.dev/lobby)
     * **Tools:** React, TypeScript, Nuxt, Node.js, Redis, WebSockets, Fly.io
 
-5.  📖 **Convex Guestbook**
+6.  📖 **Convex Guestbook**
     * **Description:** A member-only guestbook where authenticated users can sign in, post messages, and watch the list update in real time. Built on the Next.js App Router with Convex as the reactive backend, Clerk for auth, and PostHog for product analytics.
     * **Links:** [GitHub](https://github.com/highnet/convex-guestbook) | [Live App](https://convex-guestbook.vercel.app/)
     * **Tools:** Next.js, Convex, Clerk, PostHog, TypeScript, Vercel
 
-6.  🛰️ **Orbital**
+7.  🛰️ **Orbital**
     * **Description:** A real-time satellite viewer that ingests live orbital data, normalizes it into clean snapshots, and renders active satellites on an interactive 3D globe.
     * **Link:** [GitHub](https://github.com/highnet/orbital)
 
-7.  🤖 **Ollama ZeroClaw**
+8.  🤖 **Ollama ZeroClaw**
     * **Description:** A local AI agent setup backed by Ollama, with scripts for both Windows and WSL2 that spin up a fully terminal-based UI (TUI) — no cloud, no browser required.
     * **Link:** [GitHub](https://github.com/highnet/ollama-zeroclaw)
     * **Tools:** Ollama, Bash/PowerShell, TUI
 
-8. ⚔️ **AI Arena**
+9. ⚔️ **AI Arena**
     * **Description:** Pits AI-controlled battle agents against each other in strategic turn-based combat. Each agent has unique stats, moves, and a personality that shapes its decision-making, powered by a local LLM running entirely on your machine.
     * **Link:** [GitHub](https://github.com/highnet/ai-arena)
 
-9.  🎮 **Retro Karting 22**
+10.  🎮 **Retro Karting 22**
     * **Description:** A single-player, time trial-based karting game focused on reaction time and driving skills. Brings classic kart racing fun to Steam.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1906070/Retro_Karting_22/)
     * **Tools:** Unity, C#
-10.  ♟️ **Idle Chess Story**
+
+11.  ♟️ **Idle Chess Story**
     * **Description:** A strategic idle game where players assemble chess units with unique abilities to compete in tournaments.
     * **Link:** [Steam Store Page](https://store.steampowered.com/app/1067110/Idle_Chess_Story/)
     * **Tools:** Unity, C#
