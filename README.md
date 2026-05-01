@@ -54,7 +54,7 @@ I thrive on transforming complex challenges into intuitive and user-friendly sol
 
 **Core Development:** JavaScript, TypeScript, HTML5, CSS3/SCSS
 
-**Front-End Frameworks & Libraries:** React, Next.js, Nuxt 3, Vite, TailwindCSS, Shadcn/UI, Framer Motion, TresJS
+**Front-End Frameworks & Libraries:** React, Next.js, Nuxt 3, Angular, Vite, TailwindCSS, Shadcn/UI, React Three Fiber Framer Motion, TresJS
 
 **State Management:** Zustand, Pinia, Tanstack Query, Redux, XState
 
