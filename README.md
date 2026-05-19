@@ -36,9 +36,9 @@ A provably fair online slot machine engine (V3 rewrite) built as a full-stack mo
 
 ## 💼 Experience
 
-* **Frontend Developer Intern** | Wetouch (_Jan 2023 – Jul 2023_)
 * **Frontend Developer** | Wien Holding Digital Services (_Mar 2025 – Apr 2026_)
 * **Web3 Frontend Developer** | Lindy Labs — Sandclock (_Aug 2023 – Jan 2025_)
+* **Frontend Developer Intern** | Wetouch (_Jan 2023 – Jul 2023_)
 * **Software Developer II (Game Developer)** | IGT (_Jul 2022 – Jul 2022_)
 * **Indie Game Developer** | Manujoaco Games (Self-employed) (_Jun 2020 – Jan 2023_)
 
