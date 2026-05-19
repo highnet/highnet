@@ -6,7 +6,7 @@
   <a href="mailto:joaquintelleria@gmail.com"><img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.js, with production experience in Web3 and DeFi. Argentine-born with Austrian Permanent Residence, I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a provably-fair slot engine with cryptographic fairness guarantees, and indie games on Steam.
+I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.js, with production experience in Web3 and DeFi. Argentine-born Austrian citizen, I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a provably-fair slot engine with cryptographic fairness guarantees, and indie games on Steam.
 
 ---
 
