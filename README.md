@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Highnet
 
 <p align="center">
-  <a href="https://highnetcv.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-highnetcv.xyz-blue?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://highnet.at"><img src="https://img.shields.io/badge/🌐_Portfolio-highnet.at-blue?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/joaquin-telleria-57957aa5"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:joaquintelleria@gmail.com"><img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
@@ -18,7 +18,7 @@ I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.
 
 ## ✨ Featured Projects
 
-### [Key Web Platforms for the City of Vienna]()
+### [Key Web Platforms for the City of Vienna](https://www.wienholding.at)
 Contributed to the development and maintenance of several significant Viennese websites, including the Wien Holding portal, the City of Vienna's Infodat service, Donauinselfest, and Vorteilsclub Wien.
 **Stack:** React, TypeScript, Java, Spring Boot, WordPress
 
@@ -26,11 +26,11 @@ Contributed to the development and maintenance of several significant Viennese w
 Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components and integrated blockchain interactions.
 **Stack:** React, TypeScript, Next.js, Zustand, GraphQL
 
-### [Lucky Slots Web](https://lucky-slots-web.fly.dev/)
+### [Lucky Slots Web](https://github.com/highnet/lucky-slots-v3)
 A provably fair online slot machine engine (V3 rewrite) built as a full-stack monorepo. Features a cryptographically verifiable HMAC-SHA256 spin system and a Monte Carlo RTP simulator.
 **Stack:** Nuxt 3, TypeScript, GraphQL Yoga, Drizzle ORM, PostgreSQL
 
-> For a full list of projects, visit [https://highnetcv.xyz](https://highnetcv.xyz)
+> For a full list of projects, visit [https://highnet.at](https://highnet.at)
 
 ---
 
