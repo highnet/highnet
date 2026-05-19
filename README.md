@@ -6,7 +6,7 @@
   <a href="mailto:joaquintelleria@gmail.com"><img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-I'm a full-stack developer with a background in Human-Centered Computing, which means I care just as much about how something feels as how it works. I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a slot engine with cryptographic fairness guarantees, and indie games on Steam.
+I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.js, with production experience in Web3 and DeFi. Argentine-born with Austrian Permanent Residence, I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a provably-fair slot engine with cryptographic fairness guarantees, and indie games on Steam.
 
 ---
 
@@ -18,15 +18,15 @@ I'm a full-stack developer with a background in Human-Centered Computing, which 
 
 ## ✨ Featured Projects
 
-### [🇦🇹 Key Web Platforms for the City of Vienna]()
+### [Key Web Platforms for the City of Vienna]()
 Contributed to the development and maintenance of several significant Viennese websites, including the Wien Holding portal, the City of Vienna's Infodat service, Donauinselfest, and Vorteilsclub Wien.
 **Stack:** React, TypeScript, Java, Spring Boot, WordPress
 
-### [🌐 Sandclock DeFi Application](https://app.sandclock.org/)
+### [Sandclock DeFi Application](https://app.sandclock.org/)
 Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components and integrated blockchain interactions.
 **Stack:** React, TypeScript, Next.js, Zustand, GraphQL
 
-### [🎰 Lucky Slots Web](https://lucky-slots-web.fly.dev/)
+### [Lucky Slots Web](https://lucky-slots-web.fly.dev/)
 A provably fair online slot machine engine (V3 rewrite) built as a full-stack monorepo. Features a cryptographically verifiable HMAC-SHA256 spin system and a Monte Carlo RTP simulator.
 **Stack:** Nuxt 3, TypeScript, GraphQL Yoga, Drizzle ORM, PostgreSQL
 
@@ -36,9 +36,9 @@ A provably fair online slot machine engine (V3 rewrite) built as a full-stack mo
 
 ## 💼 Experience
 
+* **Frontend Developer Intern** | Wetouch (_Jan 2023 – Jul 2023_)
 * **Frontend Developer** | Wien Holding Digital Services (_Mar 2025 – Apr 2026_)
 * **Web3 Frontend Developer** | Lindy Labs — Sandclock (_Aug 2023 – Jan 2025_)
-* **Frontend Developer Intern** | Wetouch (_Jan 2023 – Jul 2023_)
 * **Software Developer II (Game Developer)** | IGT (_Jul 2022 – Jul 2022_)
 * **Indie Game Developer** | Manujoaco Games (Self-employed) (_Jun 2020 – Jan 2023_)
 
