@@ -6,7 +6,7 @@
   <a href="mailto:joaquintelleria@gmail.com"><img src="https://img.shields.io/badge/Email-joaquintelleria@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.js, with production experience in Web3 and DeFi. Argentine-born Austrian citizen, I've shipped DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a provably-fair slot engine with cryptographic fairness guarantees, and indie games on Steam.
+I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.js, with production experience in Web3 and DeFi. Argentine-born Austrian citizen, I've shipped a corporate intelligence platform, DeFi apps on Ethereum, civic platforms serving hundreds of thousands of Viennese residents, a provably-fair slot engine with cryptographic fairness guarantees, indie games on Steam, and native macOS developer tools.
 
 ---
 
@@ -18,6 +18,7 @@ I'm a full-stack developer specializing in TypeScript, React, Next.js, and Node.
 
 ## ✨ Featured Projects
 
+
 ### [Key Web Platforms for the City of Vienna](https://www.wienholding.at)
 Contributed to the development and maintenance of several significant Viennese websites, including the Wien Holding portal, the City of Vienna's Infodat service, Donauinselfest, and Vorteilsclub Wien.
 **Stack:** React, TypeScript, Java, Spring Boot, WordPress
@@ -26,16 +27,13 @@ Contributed to the development and maintenance of several significant Viennese w
 Contributed to the development and launch of two versions of a decentralized finance (DeFi) application. Developed scalable front-end components and integrated blockchain interactions.
 **Stack:** React, TypeScript, Next.js, Zustand, GraphQL
 
-### [Lucky Slots Web](https://github.com/highnet/lucky-slots-v3)
-A provably fair online slot machine engine (V3 rewrite) built as a full-stack monorepo. Features a cryptographically verifiable HMAC-SHA256 spin system and a Monte Carlo RTP simulator.
-**Stack:** Nuxt 3, TypeScript, GraphQL Yoga, Drizzle ORM, PostgreSQL
-
 > For a full list of projects, visit [https://highnet.at](https://highnet.at)
 
 ---
 
 ## 💼 Experience
 
+* **Full Stack Web Developer** | FOREUS (_Jun 2026 – Present_)
 * **Frontend Developer** | Wien Holding Digital Services (_Mar 2025 – Apr 2026_)
 * **Web3 Frontend Developer** | Lindy Labs — Sandclock (_Aug 2023 – Jan 2025_)
 * **Frontend Developer Intern** | Wetouch (_Jan 2023 – Jul 2023_)
